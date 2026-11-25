@@ -1,0 +1,79 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#020617" />
+      <stop offset="55%" stop-color="#0B132B" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 60) rotate(35) scale(420 220)">
+      <stop offset="0%" stop-color="#2563EB" stop-opacity="0.32" />
+      <stop offset="100%" stop-color="#2563EB" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 220) rotate(-20) scale(450 240)">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.28" />
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0" />
+      <stop offset="30%" stop-color="#3B82F6" stop-opacity="0.85" />
+      <stop offset="70%" stop-color="#60A5FA" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E293B" stroke-width="1" stroke-opacity="0.55" />
+    </pattern>
+  </defs>
+
+  <!-- Base Card -->
+  <rect width="1200" height="280" rx="16" fill="url(#bgGrad)" />
+  <rect width="1200" height="280" rx="16" fill="url(#grid)" />
+  <rect width="1200" height="280" rx="16" fill="url(#glowLeft)" />
+  <rect width="1200" height="280" rx="16" fill="url(#glowRight)" />
+  <rect x="1" y="1" width="1198" height="278" rx="15" stroke="#1E293B" stroke-width="2" />
+
+  <!-- Subtle 3D-inspired Constellation / Wireframe Nodes on Right -->
+  <g opacity="0.55">
+    <line x1="890" y1="70" x2="990" y2="45" stroke="#3B82F6" stroke-width="1.2" stroke-opacity="0.45" />
+    <line x1="990" y1="45" x2="1095" y2="105" stroke="#3B82F6" stroke-width="1.2" stroke-opacity="0.45" />
+    <line x1="890" y1="70" x2="950" y2="165" stroke="#60A5FA" stroke-width="1.2" stroke-opacity="0.35" />
+    <line x1="950" y1="165" x2="1095" y2="105" stroke="#3B82F6" stroke-width="1.2" stroke-opacity="0.45" />
+    <line x1="950" y1="165" x2="1055" y2="225" stroke="#60A5FA" stroke-width="1.2" stroke-opacity="0.35" />
+    <line x1="1095" y1="105" x2="1055" y2="225" stroke="#3B82F6" stroke-width="1.2" stroke-opacity="0.4" />
+    <line x1="890" y1="70" x2="820" y2="135" stroke="#3B82F6" stroke-width="1" stroke-opacity="0.25" />
+    <line x1="820" y1="135" x2="950" y2="165" stroke="#3B82F6" stroke-width="1" stroke-opacity="0.25" />
+
+    <circle cx="890" cy="70" r="4" fill="#60A5FA" />
+    <circle cx="990" cy="45" r="5" fill="#3B82F6">
+      <animate attributeName="r" values="4;6;4" dur="3.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1095" cy="105" r="4.5" fill="#93C5FD" />
+    <circle cx="950" cy="165" r="5" fill="#2563EB">
+      <animate attributeName="r" values="4;6.5;4" dur="4.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1055" cy="225" r="4" fill="#60A5FA" />
+    <circle cx="820" cy="135" r="3" fill="#3B82F6" />
+  </g>
+
+  <!-- Top Pill Badge -->
+  <g transform="translate(72, 46)">
+    <rect width="232" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1.5" />
+    <circle cx="18" cy="14" r="4.5" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite" />
+    </circle>
+    <text x="32" y="18.5" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" letter-spacing="1.2">OPEN TO OPPORTUNITIES</text>
+  </g>
+
+  <!-- Main Title -->
+  <text x="72" y="128" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="1.5">ARUNA FAJAR PRAYOGA</text>
+
+  <!-- Role Subtitle -->
+  <text x="72" y="166" fill="#60A5FA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="2.2">SOFTWARE ENGINEER  ·  FULL-STACK &amp; MOBILE DEVELOPER</text>
+
+  <!-- Divider Glow Line -->
+  <rect x="72" y="192" width="620" height="2" fill="url(#accentLine)" />
+
+  <!-- Bottom Metadata Row -->
+  <text x="72" y="228" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13.5" font-weight="500">
+    Batam, Indonesia  ·  Politeknik Negeri Batam  ·  2+ Years Exp  ·  7+ Projects
+  </text>
+</svg>
