@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://github.com/fajar288/Porto">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=760&lines=Crafting+digital+experiences+that+inspire.;Building+Web+%26+Mobile+Apps+%E2%80%94+Next.js%2C+Laravel+%26+Flutter;Informatics+Student+at+Politeknik+Negeri+Batam;2%2B+Years+Experience+%C2%B7+7%2B+Projects+Completed" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=760&lines=Crafting+digital+experiences+that+inspire.;Building+Web+%26+Mobile+Apps+%C2%B7+Next.js%2C+Laravel+%26+Flutter;Informatics+Student+at+Politeknik+Negeri+Batam;2%2B+Years+Experience+%C2%B7+7%2B+Projects+Completed" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="arunafajar-portfolio.vercel.app" target="_blank">
+  <a href="https://github.com/fajar288/Porto" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Portfolio" />
   </a>
   <a href="https://github.com/fajar288" target="_blank">
@@ -34,7 +34,7 @@
 <tr>
 <td width="55%" valign="top">
 
-Hi, I'm **Aruna Fajar Prayoga** — an Informatics student at **Politeknik Negeri Batam** based in **Batam, Indonesia**.
+Hi, I'm **Aruna Fajar Prayoga**, an Informatics student at **Politeknik Negeri Batam** based in **Batam, Indonesia**.
 
 With **2+ years of experience** and **7+ completed projects**, I specialize in building **accessible, performant, and visually engaging** web & mobile products.
 
@@ -69,7 +69,7 @@ const aruna = {
 
 ---
 
-## `02` TECH ARSENAL
+## `02` TECH TOOLKIT
 
 <div align="center">
 
@@ -107,7 +107,7 @@ PWA accounting system for financial records, journal & ledger bookkeeping, RAPBS
   </a>
 </p>
 
-### TAssist — Thesis App
+### TAssist · Thesis App
 Cross-platform mobile platform connecting students and lecturers with smart meeting scheduling, advisor discovery, and milestone tracking.
 
 `Flutter` · `Dart` · `Laravel`
@@ -121,7 +121,7 @@ Cross-platform mobile platform connecting students and lecturers with smart meet
   </a>
 </p>
 
-### Voltrans — EV Rental
+### Voltrans · EV Rental
 Sustainable electric vehicle rental web app featuring multi-criteria fleet filtering, transparent pricing, and seamless booking history.
 
 `PHP` · `Laravel` · `DaisyUI`
@@ -139,7 +139,7 @@ Sustainable electric vehicle rental web app featuring multi-criteria fleet filte
 <td width="52%" valign="top">
 
 ### Certifications
-- **Certificate of Appreciation — Polibatam English Club (PEC)**  
+- **Certificate of Appreciation · Polibatam English Club (PEC)**  
   *Politeknik Negeri Batam · Jan 2026*
 - **Meta Front-End Developer Professional Certificate**  
   *Coursera · Nov 2023*
