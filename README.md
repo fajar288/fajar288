@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://github.com/fajar288/Porto">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=760&lines=Crafting+digital+experiences+that+inspire.;Building+Web+%26+Mobile+Apps+%E2%80%94+Next.js%2C+Laravel+%26+Flutter;Informatics+Student+%40+Politeknik+Negeri+Batam;2%2B+Years+Experience+%C2%B7+7%2B+Projects+Completed" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=760&lines=Crafting+digital+experiences+that+inspire.;Building+Web+%26+Mobile+Apps+%E2%80%94+Next.js%2C+Laravel+%26+Flutter;Informatics+Student+at+Politeknik+Negeri+Batam;2%2B+Years+Experience+%C2%B7+7%2B+Projects+Completed" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/fajar288/Porto" target="_blank">
+  <a href="arunafajar-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Portfolio" />
   </a>
   <a href="https://github.com/fajar288" target="_blank">
