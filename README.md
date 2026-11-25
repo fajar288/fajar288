@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/fajar288/Porto" target="_blank">
+  <a href="arunafajar-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Portfolio" />
   </a>
   <a href="https://github.com/fajar288" target="_blank">
