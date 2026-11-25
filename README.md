@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/fajar288/Porto">
+  <a href="https://arunafajar-portfolio.vercel.app/" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=760&lines=Crafting+digital+experiences+that+inspire.;Building+Web+%26+Mobile+Apps+%C2%B7+Next.js%2C+Laravel+%26+Flutter;Informatics+Student+at+Politeknik+Negeri+Batam;2%2B+Years+Experience+%C2%B7+7%2B+Projects+Completed" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="arunafajar-portfolio.vercel.app" target="_blank">
+  <a href="https://arunafajar-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Portfolio" />
   </a>
   <a href="https://github.com/fajar288" target="_blank">
@@ -88,7 +88,7 @@ const aruna = {
 <td width="33%" valign="top">
 
 <p align="center">
-  <a href="https://github.com/fajar288/Porto/blob/main/projects/sia.html">
+  <a href="https://arunafajar-portfolio.vercel.app/projects/sia.html" target="_blank">
     <img src="./assets/poster-sia.png" alt="SIA Darussalam Foundation" width="100%" />
   </a>
 </p>
@@ -102,7 +102,7 @@ PWA accounting system for financial records, journal & ledger bookkeeping, RAPBS
 <td width="33%" valign="top">
 
 <p align="center">
-  <a href="https://github.com/fajar288/Porto/blob/main/projects/tassist.html">
+  <a href="https://arunafajar-portfolio.vercel.app/projects/tassist.html" target="_blank">
     <img src="./assets/poster-tassist.png" alt="TAssist Thesis Advising App" width="100%" />
   </a>
 </p>
@@ -116,7 +116,7 @@ Cross-platform mobile platform connecting students and lecturers with smart meet
 <td width="33%" valign="top">
 
 <p align="center">
-  <a href="https://github.com/fajar288/Porto/blob/main/projects/voltrans.html">
+  <a href="https://arunafajar-portfolio.vercel.app/projects/voltrans.html" target="_blank">
     <img src="./assets/poster-voltrans.jpg" alt="Voltrans EV Rental Platform" width="100%" />
   </a>
 </p>
