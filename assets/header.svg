@@ -67,7 +67,7 @@
   <text x="72" y="128" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="1.5">ARUNA FAJAR PRAYOGA</text>
 
   <!-- Role Subtitle -->
-  <text x="72" y="166" fill="#60A5FA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="2.2">SOFTWARE ENGINEER  ·  FULL-STACK &amp; MOBILE DEVELOPER</text>
+  <text x="72" y="166" fill="#60A5FA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="2.2">SOFTWARE ENGINEER  ·  FULL-STACK DEVELOPER</text>
 
   <!-- Divider Glow Line -->
   <rect x="72" y="192" width="620" height="2" fill="url(#accentLine)" />
